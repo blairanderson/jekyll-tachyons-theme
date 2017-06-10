@@ -7,7 +7,7 @@
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "tachyons-blocks"
+gem "tachyons-blocks", git: 'git://github.com/blairanderson/jekyll-tachyons-theme.git'
 ```
 
 And add this line to your Jekyll site:
